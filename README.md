@@ -2,3 +2,4 @@
 Instalacion de todos los componentes
 apocfapo
 oasfj
+lo que sea
